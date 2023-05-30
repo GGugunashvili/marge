@@ -112,3 +112,56 @@
     gap: 48.72px;
     margin-bottom: 69px;
 }
+
+.footer-main-container {
+    max-width: 1440px;
+    height: 308px;
+    position: relative;
+}
+
+.footer-container {
+    max-width: 1267px;
+    height: 213px;
+    display: flex;
+    gap: 700px;
+    border-bottom: solid 1px #BCBCBC;
+    margin-left: 84px;
+    margin-right: 89px;
+}
+
+.footer-title-colour {
+    width: 147px;
+    height: 20px;
+    position: absolute;
+    top: 93px;
+    left: 171px;
+}
+
+.footer-title {
+    position: absolute;
+    top: 87px;
+    left: 84px;
+}
+
+.footer-container-2 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.social-media {
+    display: flex;
+    gap: 20px;
+}
+
+.copyright {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #262626;
+    position: absolute;
+    top: 247px;
+    left: 88px;
+}
